@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmzUeINxLBFhCJC4EaNH+quykZZ0lED1FkNy8wMZefRENluLk0QP7W2QVG9v9Y6xplukqgNg92DyfOrFgPBxyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maqfo\\source\\repos\\Teste BCrypt\\Teste BCrypt\\Teste BCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maqfo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

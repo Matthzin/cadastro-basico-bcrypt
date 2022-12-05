@@ -1,0 +1,17 @@
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\Teste BCrypt.exe
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\Teste BCrypt.deps.json
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\Teste BCrypt.runtimeconfig.json
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\Teste BCrypt.dll
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\Teste BCrypt.pdb
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.csproj.AssemblyReference.cache
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.AssemblyInfoInputs.cache
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.AssemblyInfo.cs
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.csproj.CoreCompileInputs.cache
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.dll
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\refint\Teste BCrypt.dll
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.pdb
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.genruntimeconfig.cache
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\ref\Teste BCrypt.dll
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\maqfo\source\repos\Teste BCrypt\Teste BCrypt\obj\Debug\net6.0\Teste BCrypt.csproj.CopyComplete
